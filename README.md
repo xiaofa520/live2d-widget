@@ -2,7 +2,7 @@
 
 只用将这一行代码加入 html 页面的 `head` 或 `body` 中，即可加载看板娘：
 ```xml
-<script src="https://fastly.jsdelivr.net/gh/xiaifa520/live2d-widget@latest/autoload.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/xiaofa520/live2d-widget@master/autoload.js"></script>
 ```
 ```xml
 <script src="https://live2d.xiaofa520.cn/autoload.js"></script>

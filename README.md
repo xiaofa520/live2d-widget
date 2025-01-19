@@ -1,4 +1,5 @@
 ## 使用
+
 只用将这一行代码加入 html 页面的 `head` 或 `body` 中，即可加载看板娘：
 ```xml
 <script src="https://fastly.jsdelivr.net/gh/xiaifa520/live2d-widget@latest/autoload.js"></script>
